@@ -1,0 +1,27 @@
+/*selector {
+property : value;
+}*/
+
+body {
+background-image: url(https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg)
+}
+h1 {
+color: #FFFF00;
+
+}
+
+h2 {
+color: #00EC00;
+
+}
+
+
+p {
+color: #00EC00;
+}
+
+h1{
+box-shadow : 4px 4px 7px #4F8E89
+}
+
+box-shadow : 4px 4px 5px 
